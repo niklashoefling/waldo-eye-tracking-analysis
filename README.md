@@ -7,7 +7,7 @@ The primary research objective is to evaluate the **"Reading-Pattern Hypothesis"
 
 ## Key Features
 * **Data Preprocessing:** Cleaning and filtering raw eye-tracking time-series and interval metrics exported from Tobii Pro Lab.
-* **Hypothesis Testing:** Statistical evaluation of scanpaths using Spearman rank-correlation across all participant–stimulus combinations to capture directional trends over time.
+* **Hypothesis Testing:** Statistical evaluation of scanpaths using Spearman rank-correlation across all participant–stimulus combinations, with a one-sample t-test and Cohen's d to formally test whether directional trends differ significantly from zero.
 * **Phase Segmentation:** Chronological tertile-based segmentation to analyze gaze height distribution across early, middle, and late search phases.
 * **Heatmap Analysis:** Programmatic analysis of pre-computed heatmap images to quantify area coverage and vertical attention distribution per participant.
 
