@@ -1,0 +1,57 @@
+Recording	Participant	Timeline	TOI	Interval	Media	Duration_of_interval	Start_of_interval	Total_duration_of_whole_fixations	Number_of_whole_fixations	Number_of_saccades
+Recording3	ID01	Timeline1	Walter-1	1	Relaxer1,Walter1	60034	96833	44868	182	153
+Recording3	ID01	Timeline1	Walter-2	1	Relaxer1,Walter2	16100	171151	11209	41	37
+Recording3	ID01	Timeline1	Walter-3	1	Text,Walter3	42501	191117	34625	125	113
+Recording3	ID01	Timeline1	Walter1	1	Walter1	60034	95833	45518	181	153
+Recording3	ID01	Timeline1	Walter2	1	Walter2	16100	170151	11708	44	39
+Recording3	ID01	Timeline1	Walter3	1	Walter3	42501	190117	34908	127	116
+Recording3	ID01	Timeline1	Entire Recording	1	Erstes Bild,Relaxer1,Text,Walter1,Walter2,Walter3,Walter-Charakter,Willkommen	236072	0	163450	543	418
+Recording4	ID02	Timeline1	Walter-1	1	Relaxer1,Walter1	17917	120168	12241	58	41
+Recording4	ID02	Timeline1	Walter-2	1	Relaxer1,Walter2	13067	142401	9177	45	29
+Recording4	ID02	Timeline1	Walter-3	1	Text,Walter3	13517	158951	7295	39	24
+Recording4	ID02	Timeline1	Walter1	1	Walter1	17917	119168	12658	59	42
+Recording4	ID02	Timeline1	Walter2	1	Walter2	13067	141401	9027	46	30
+Recording4	ID02	Timeline1	Walter3	1	Walter3	13517	157951	7128	38	22
+Recording4	ID02	Timeline1	Entire Recording	1	Erstes Bild,Relaxer1,Text,Walter1,Walter2,Walter3,Walter-Charakter,Willkommen	178642	0	106058	468	221
+Recording5	ID03	Timeline1	Walter-1	1	Relaxer1,Walter1	8467	93099	7295	23	21
+Recording5	ID03	Timeline1	Walter-2	1	Relaxer1,Walter2	48134	104616	40704	168	159
+Recording5	ID03	Timeline1	Walter-3	1	Text,Walter3	4433	154799	1649	8	9
+Recording5	ID03	Timeline1	Walter1	1	Walter1	8467	92099	4697	22	21
+Recording5	ID03	Timeline1	Walter2	1	Walter2	48134	103616	39588	167	158
+Recording5	ID03	Timeline1	Walter3	1	Walter3	4433	153799	2032	10	10
+Recording5	ID03	Timeline1	Entire Recording	1	Erstes Bild,Relaxer1,Text,Walter1,Walter2,Walter3,Walter-Charakter,Willkommen	166817	0	109605	380	319
+Recording6	ID04	Timeline1	Walter-1	1	Relaxer1,Walter1	31500	163625	22834	87	72
+Recording6	ID04	Timeline1	Walter-2	1	Relaxer1,Walter2	32850	211108	25215	103	91
+Recording6	ID04	Timeline1	Walter-3	1	Text,Walter3	6083	246042	4630	15	11
+Recording6	ID04	Timeline1	Walter1	1	Walter1	31500	162625	22284	84	68
+Recording6	ID04	Timeline1	Walter2	1	Walter2	32850	210108	25832	105	92
+Recording6	ID04	Timeline1	Walter3	1	Walter3	6083	245042	3298	15	13
+Recording6	ID04	Timeline1	Entire Recording	1	Erstes Bild,Relaxer1,Text,Walter1,Walter2,Walter3,Walter-Charakter,Willkommen	255056	0	143350	457	337
+Recording7	ID05	Timeline1	Walter-1	1	Relaxer1,Walter1	3133	90590	1999	8	8
+Recording7	ID05	Timeline1	Walter-2	1	Relaxer1,Walter2	37984	98424	24732	117	104
+Recording7	ID05	Timeline1	Walter-3	1	Text,Walter3	60017	137724	37507	187	157
+Recording7	ID05	Timeline1	Walter1	1	Walter1	3133	89590	1749	7	7
+Recording7	ID05	Timeline1	Walter2	1	Walter2	37984	97424	24333	119	106
+Recording7	ID05	Timeline1	Walter3	1	Walter3	60017	136724	37656	186	156
+Recording7	ID05	Timeline1	Entire Recording	1	Erstes Bild,Relaxer1,Text,Walter1,Walter2,Walter3,Walter-Charakter,Willkommen	201459	0	127109	505	428
+Recording8	ID06	Timeline1	Walter-1	1	Relaxer1,Walter1	29317	84838	23084	93	86
+Recording8	ID06	Timeline1	Walter-2	1	Relaxer1,Walter2	25134	117388	17438	73	70
+Recording8	ID06	Timeline1	Walter-3	1	Text,Walter3	29200	144421	21851	79	78
+Recording8	ID06	Timeline1	Walter1	1	Walter1	29317	83838	23100	93	85
+Recording8	ID06	Timeline1	Walter2	1	Walter2	25134	116388	17771	72	70
+Recording8	ID06	Timeline1	Walter3	1	Walter3	29200	143421	22134	79	79
+Recording8	ID06	Timeline1	Entire Recording	1	Erstes Bild,Relaxer1,Text,Walter1,Walter2,Walter3,Walter-Charakter,Willkommen	174874	0	118932	387	339
+Recording9	ID07	Timeline1	Walter-1	1	Relaxer1,Walter1	49400	109935	39672	152	144
+Recording9	ID07	Timeline1	Walter-2	1	Relaxer1,Walter2	18317	163086	10642	46	33
+Recording9	ID07	Timeline1	Walter-3	1	Text,Walter3	6700	185053	4414	21	21
+Recording9	ID07	Timeline1	Walter1	1	Walter1	49400	108935	39305	149	143
+Recording9	ID07	Timeline1	Walter2	1	Walter2	18317	162086	10359	46	33
+Recording9	ID07	Timeline1	Walter3	1	Walter3	6700	184053	4364	20	18
+Recording9	ID07	Timeline1	Entire Recording	1	Erstes Bild,Relaxer1,Text,Walter1,Walter2,Walter3,Walter-Charakter,Willkommen	195391	0	122329	408	359
+Recording10	ID08	Timeline1	Walter-1	1	Relaxer1,Walter1	1967	338485	1549	5	4
+Recording10	ID08	Timeline1	Walter-2	1	Relaxer1,Walter2	31767	350535	20336	114	90
+Recording10	ID08	Timeline1	Walter-3	1	Text,Walter3	33084	388102	20735	114	86
+Recording10	ID08	Timeline1	Walter1	1	Walter1	1967	337485	666	4	5
+Recording10	ID08	Timeline1	Walter2	1	Walter2	31767	349535	20086	116	91
+Recording10	ID08	Timeline1	Walter3	1	Walter3	33084	387102	20585	115	87
+Recording10	ID08	Timeline1	Entire Recording	1	Erstes Bild,Relaxer1,Text,Walter1,Walter2,Walter3,Walter-Charakter,Willkommen	424260	0	154007	606	396

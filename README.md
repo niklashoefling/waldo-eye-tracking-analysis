@@ -15,4 +15,3 @@ The primary research objective is to validate the **"Reading-Pattern Hypothesis"
 * **Language:** Python
 * **Data Analysis & Statistics:** Pandas, NumPy, SciPy
 * **Visualization:** Matplotlib, Seaborn
-* **Machine Learning:** Scikit-Learn
