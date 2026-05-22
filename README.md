@@ -11,6 +11,14 @@ The primary research objective is to evaluate the **"Reading-Pattern Hypothesis"
 * **Phase Segmentation:** Chronological tertile-based segmentation to analyze gaze height distribution across early, middle, and late search phases.
 * **Heatmap Analysis:** Programmatic analysis of pre-computed heatmap images to quantify area coverage and vertical attention distribution per participant.
 
+## How to Run
+
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Open and run `Waldo_all_recordings.ipynb` top to bottom in Jupyter.
+
 ## Tech Stack
 * **Language:** Python
 * **Data Analysis & Statistics:** Pandas, NumPy, SciPy
